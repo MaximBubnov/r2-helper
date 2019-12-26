@@ -1,6 +1,6 @@
 # r2helper
 
-> A Vue.js project
+> A Vue.js project for helping players to watch bosses
 
 ## Build Setup
 
