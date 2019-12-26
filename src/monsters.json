@@ -1,0 +1,124 @@
+{
+  "monsters": [
+    {
+      "name": "Чабон",
+      "picture": "chabon.png",
+      "killTime": "",
+      "active": false
+    },
+    {
+      "name": "Флинд-мечник",
+      "picture": "flind.png",
+      "killTime": "",
+      "active": true
+    },
+    {
+      "name": "Королева гарпий",
+      "picture": "garpia.jpg",
+      "killTime": "",
+      "active": false
+    },
+    {
+      "name": "Вождь гигантов",
+      "picture": "gigant.png",
+      "killTime": "",
+      "active": false
+    },
+    {
+      "name": "Командир Кобальдов",
+      "picture": "kobold.png",
+      "killTime": "",
+      "active": false
+    },
+    {
+      "name": "Лесной куролиск",
+      "picture": "kurolisk.png",
+      "killTime": "",
+      "active": false
+    },
+    {
+      "name": "Куру",
+      "picture": "kuru.png",
+      "killTime": "",
+      "active": false
+    },
+    {
+      "name": "Король Ракум",
+      "picture": "leprekon.png",
+      "killTime": "",
+      "active": false
+    },
+    {
+      "name": "Королева Маав",
+      "picture": "maav.png",
+      "killTime": "",
+      "active": false
+    },
+    {
+      "name": "Минотавр-воин",
+      "picture": "minotavr.jpg",
+      "killTime": "",
+      "active": false
+    },
+    {
+      "name": "Огр-воин",
+      "picture": "ogr-voin.png",
+      "killTime": "",
+      "active": false
+    },
+    {
+      "name": "Паук-птицеед",
+      "picture": "pauk.png",
+      "killTime": "",
+      "active": false
+    },
+    {
+      "name": "Руум (орк)",
+      "picture": "ruum.jpg",
+      "killTime": "",
+      "active": false
+    },
+    {
+      "name": "Шрам",
+      "picture": "shram.png",
+      "killTime": "",
+      "active": false
+    },
+    {
+      "name": "Сирена",
+      "picture": "sirena.png",
+      "killTime": "",
+      "active": false
+    },
+    {
+      "name": "Крепкий Скелет",
+      "picture": "skelet.png",
+      "killTime": "",
+      "active": false
+    },
+    {
+      "name": "Гигантский Тритон",
+      "picture": "triton.png",
+      "killTime": "",
+      "active": false
+    },
+    {
+      "name": "Гигантский василиск",
+      "picture": "vasilisk.png",
+      "killTime": "",
+      "active": false
+    },
+    {
+      "name": "Большой жук",
+      "picture": "zuk.jpg",
+      "killTime": "",
+      "active": false
+    },
+    {
+      "name": "Большой тролль-воин",
+      "picture": "trol.jpg",
+      "killTime": "",
+      "active": false
+    }
+  ]
+}
